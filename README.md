@@ -1,4 +1,4 @@
-markdown
+
 # 3D Model Processing
 
 ## Required Libraries
