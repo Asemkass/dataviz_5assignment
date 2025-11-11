@@ -3,7 +3,7 @@
 
 ## Required Libraries
 ```bash
-1 step)download all library
+download all library
 pip install open3d numpy
 
 How to Run
