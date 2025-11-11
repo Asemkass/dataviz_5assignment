@@ -3,7 +3,9 @@
 
 ## Required Libraries
 ```bash
+1 step)download all library
 pip install open3d numpy
+
 How to Run
 Change the model filename in the code:
 
